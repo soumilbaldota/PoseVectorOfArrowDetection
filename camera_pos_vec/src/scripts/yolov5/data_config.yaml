@@ -1,0 +1,7 @@
+colors:
+- [204, 133, 92]
+- [133, 18, 186]
+names: [left, right]
+nc: 2
+train: ./train/images
+val: ./val/images
